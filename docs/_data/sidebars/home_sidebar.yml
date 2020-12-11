@@ -13,6 +13,6 @@ entries:
       title: Card
       url: card.html
     output: web
-    title: nbdev_example_hamel
+    title: demo_nbdev_temp
   output: web
   title: Sidebar
